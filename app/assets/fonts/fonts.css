@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'ninomtavruliBold';
+    src: url('../fonts/bpg_nino_mtavruli_bold.eot');
+    src: url('../fonts/bpg_nino_mtavruli_bold.eot') format('embedded-opentype'),
+         url('../fonts/bpg_nino_mtavruli_bold.woff') format('woff'),
+         url('../fonts/bpg_nino_mtavruli_bold.ttf') format('truetype'),
+         url('../fonts/bpg_nino_mtavruli_bold.svg#BPGNinoMtavruliBold') format('svg');
+}
+
+
+@font-face {
+    font-family: 'bpgleregular';
+    src: url('../fonts/bpg_le_studio_02.eot');
+    src: url('../fonts/bpg_le_studio_02.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/bpg_le_studio_02.woff') format('woff'),
+         url('../fonts/bpg_le_studio_02.ttf') format('truetype'),
+         url('../fonts/bpg_le_studio_02.svg#bpg_le_studio_02regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'ninomtavruli';
+    src: url('../fonts/bpg_nino_mtavruli_normal.eot');
+    src: url('../fonts/bpg_nino_mtavruli_normal.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/bpg_nino_mtavruli_normal.woff') format('woff'),
+         url('../fonts/bpg_nino_mtavruli_normal.ttf') format('truetype'),
+         url('../fonts/bpg_nino_mtavruli_normal.svg#bpg_nino_mtavruliregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'bpgbanner';
+    src: url('../fonts/bpg_banner_extrasquare_caps.eot');
+    src: url('../fonts/bpg_banner_extrasquare_caps.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/bpg_banner_extrasquare_caps.woff') format('woff'),
+         url('../fonts/bpg_banner_extrasquare_caps.ttf') format('truetype'),
+         url('../fonts/bpg_banner_extrasquare_caps.svg#bpg_banner_extrasquare_capsRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'arbekalightitalic';
+    src: url('../fonts/arbeli__.eot');
+    src: url('../fonts/arbeli__.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/arbeli__.woff') format('woff'),
+         url('../fonts/arbeli__.ttf') format('truetype'),
+         url('../fonts/arbeli__.svg#arbeka_lightitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+        font-family: "BPGArial";
+        src: url('../fonts/420013428-bpg_arial_2009.eot');
+        src: url('../fonts/420013428-bpg_arial_2009.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/420013428-bpg_arial_2009.svg#BPGArialRegular') format('svg'),
+        url('../fonts/420013428-bpg_arial_2009.woff') format('woff'),
+        url('../fonts/420013428-bpg_arial_2009.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }

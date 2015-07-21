@@ -1,0 +1,21 @@
+{
+  "name": "gulp-starter",
+  "version": "0.0.1",
+  "authors": [
+    "giobero999 <giobero999@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "1.11",
+    "skeleton": "~2.0.4",
+    "react": "~0.13.3"
+  }
+}
