@@ -1,4 +1,11 @@
+/** @jsx React.DOM */
+var Timer = React.createClass({
+	render:function(){
+		return(
+			<div>hellossssss</div>
+		)
+	}
+});
 React.render(
-        <h1>Hello, worlds!</h1>,
-        document.getElementById('content')
-      );
+		<Timer/>, document.body
+	)

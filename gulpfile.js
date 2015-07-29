@@ -29,7 +29,7 @@ gulp.task('gulp-sass', function () {
 
 
 gulp.task('watch', function(){
-  //gulp.watch('app/index.jade', ['gulp-jade']);
+  gulp.watch('app/bundle.jsx', ['gulp-react']);
 	gulp.watch('app/assets/sass/*.sass', ['gulp-sass']);
 });
 
